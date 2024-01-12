@@ -1,4 +1,4 @@
-# Title - Shoes Inventory
+# Inventory Management
 
 # Project Description
 This project provides inventory-management and stock-taking support using Python.
